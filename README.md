@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning<br>💬 Ask meanything
+<br>🌱 I’m currently learning Data Science and AI <br>💬 Ask me anything
 
 
 ## 🌐 Socials:
